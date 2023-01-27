@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Daniel+Viana.+Be+Welcome+on+my+GitHub!+🖐️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Daniel+Viana.+Be+Welcome+on+my+GitHub!+🖐️)](https://git.io/typing-svg)
 
 <div align="center"> 
   <a href="https://www.instagram.com/danielviana7i/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/daniel-viana-943420184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=25&center=true&vCenter=true&width=1000&lines=My+actual+status+of+the+GitHub)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=25&center=true&vCenter=true&width=1000&lines=My+actual+status+of+the+GitHub)](https://git.io/typing-svg)
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielviana10&count_private=true&hide_border=true&title_color=00FF00&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Viana github stats" /> 
