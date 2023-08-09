@@ -27,8 +27,6 @@
   
 <div align="center">
   <h2>Studying in this moment:<h2>
-    <img width="300vh" height="50vh" src="https://accelerationeconomy.com/wp-content/uploads/2021/06/servicenow-2.png"/>
-    <p>Learn about ServiceNow(NowLearning for Certified Application Developer)!</p>
   <img width="300vh" height="100vh" alt="html5" src="https://feeltechrh.com.br/wp-content/uploads/2021/10/kenzie-300x150-01.png" />
     <img width="350vh" height="100vh" alt="html5" src="https://blog.unifcv.edu.br/wp-content/uploads/2020/01/Logo-PNG_LATERAL-1.png" />
 
