@@ -1,22 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Daniel+Viana.+Be+Welcome+on+my+GitHub!+🖐️)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=adbac7&size=25&center=true&vCenter=true&width=1000&lines=I+love+to+learn+new+things!+👨🏻‍💻)](https://git.io/typing-svg)
+<div align="center"> 
+  <h2>Hi, my name is Daniel!</h2>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c4c6c7&size=25&center=true&vCenter=true&width=1000&lines=I'm+a+Full+Stack+Developer+and+a+passionate+about+technologies!+👨🏻‍💻)](https://git.io/typing-svg)
 
 <div align="center"> 
   <h2>Social Networks:</h2>
-  <a href="https://www.instagram.com/danielviana7i/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:danielviana43@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-viana-943420184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.instagram.com/danielviana7i/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:danielviana43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-viana-943420184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
   
 <div align="center">  
-  <h2>My actual status of the GitHub:</h2>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielviana10&count_private=true&hide_border=true&title_color=00FF00&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Viana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana10&layout=compact&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
+  <h2>My most used Languages:</h2>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana10&layout=compact&theme=dark" />
 </div>
 
-  
+
 
 <div align="center">
   <h2>Main Skills:</h2>
