@@ -19,7 +19,6 @@
 </div>
   
 <div align="center">
-  <h2>Studying in this moment:<h2>
   <img width="300vh" height="100vh" alt="html5" src="https://feeltechrh.com.br/wp-content/uploads/2021/10/kenzie-300x150-01.png" />
 
   <p>In love with the programation! I'm graduate systems Development in UNICV and Development Full Stack in Kenzie Academy Brasil!</p>
