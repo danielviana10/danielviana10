@@ -17,6 +17,8 @@
   <h2>My most used Languages:</h2>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana10&layout=compact&theme=dark" />
 </div>
+
+<br />
   
 <div align="center">
   <img width="300vh" height="100vh" alt="html5" src="https://feeltechrh.com.br/wp-content/uploads/2021/10/kenzie-300x150-01.png" />
