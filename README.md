@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielviana10&show_icons=true&theme=radical&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana10&layout=compact&theme=radical"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=danielviana10&theme=radical"/>
 
 </div>
 
