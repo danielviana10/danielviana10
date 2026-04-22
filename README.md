@@ -37,16 +37,6 @@
 
 ---
 
-### 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=danielviana10&theme=radical"/>
-
-</div>
-
----
-
 ### 🧠 Currently Studying
 
 * Java + Spring Boot
