@@ -11,7 +11,7 @@
 * 👨‍💻 Portfolio: https://danielviana.vercel.app/
 * 💬 Ask me about **React, Angular, Node.js, Python**
 * 📫 Contact: **[dani_vianaitb@outlook.com](mailto:dani_vianaitb@outlook.com)**
-* 📄 Resume: https://danielviana.vercel.app/daniel-viana-curriculo.pdf
+* 📄 Resume: [https://danielviana.vercel.app/daniel-viana-curriculo.pdf](https://danielviana.vercel.app/daniel-viana.pdf)
 
 ---
 
