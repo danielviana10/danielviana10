@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,python,java,spring,mongodb,git,github,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,react,angular,nodejs,python,java,spring,mongodb,git,github,html,css,tailwind" />
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielviana10&show_icons=true&theme=radical&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielviana10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana10&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielviana10&layout=compact&theme=radical" />
 
 </div>
 
